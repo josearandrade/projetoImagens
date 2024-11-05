@@ -1,0 +1,6 @@
+*.TIF
+*.tif
+*.png
+*.jpeg
+.venv/
+interface/
